@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+El otro texto, cogno
 Use the left arrow to go back!
